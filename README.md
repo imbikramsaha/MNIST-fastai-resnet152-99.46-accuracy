@@ -1,1 +1,1 @@
-# MNIST-fastai-resnet152-99.46-accuracy
+# MNIST-fastai-resnet152-99.46% accuracy
